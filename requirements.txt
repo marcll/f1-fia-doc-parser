@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-core
+pypdf
+langchain-openai
+python-dotenv
+faiss-cpu
+rapidocr-onnxruntime
