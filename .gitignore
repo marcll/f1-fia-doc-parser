@@ -1,6 +1,6 @@
-# Data folders
-data/raw_pdfs/
-data/summaries/
+# Data folder contents
+data/raw_pdfs/*
+data/summaries/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
